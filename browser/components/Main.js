@@ -78,7 +78,7 @@ export default class Main extends Component {
               <h1>Foundations</h1>
             </div>
             <div className="container">
-              <p>Selection the foundation you are current using:</p>
+              <p>Selection the foundations you are current using:</p>
             </div>
             <Select
               options={this.state.results}

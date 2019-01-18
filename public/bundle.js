@@ -34981,7 +34981,7 @@ var Main = function (_Component) {
               _react2.default.createElement(
                 'p',
                 null,
-                'Selection the foundation you are current using:'
+                'Selection the foundations you are current using:'
               )
             ),
             _react2.default.createElement(_reactSelect2.default, {
