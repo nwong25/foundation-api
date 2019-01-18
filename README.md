@@ -19,4 +19,4 @@
 
 3. Run `npm install`
 
-4. `npm start`
+4. Run `npm start`to launch app
