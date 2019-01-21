@@ -15,8 +15,8 @@
 
 1. Fork and `git clone`
 
-2. Create a database model on PostgreSQL named 'foundation-selector'
+2. Create a database on PostgreSQL with `createdb foundation-selector`
 
 3. Run `npm install`
 
-4. `npm start`
+4. Run `npm start`to launch app
