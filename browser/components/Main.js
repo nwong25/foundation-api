@@ -67,7 +67,6 @@ export default class Main extends Component {
       console.error(err);
     }
   }
-
   render() {
     const foundations = this.state.foundationsUsed || [];
     return (

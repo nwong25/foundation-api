@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const Foundation = require('../db/models/foundation');
 
-// POST /get/foundations
+// GET /api/foundations
 router.get('/', async (req, res, next) => {
   try {
     const foundation = await Foundation.findAll();
